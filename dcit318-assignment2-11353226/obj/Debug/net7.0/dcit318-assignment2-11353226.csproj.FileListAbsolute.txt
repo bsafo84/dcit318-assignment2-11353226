@@ -1,0 +1,15 @@
+/Users/brian/Desktop/DCIT 318/dcit318-assignment2-11353226/dcit318-assignment2-11353226/bin/Debug/net7.0/dcit318-assignment2-11353226
+/Users/brian/Desktop/DCIT 318/dcit318-assignment2-11353226/dcit318-assignment2-11353226/bin/Debug/net7.0/dcit318-assignment2-11353226.deps.json
+/Users/brian/Desktop/DCIT 318/dcit318-assignment2-11353226/dcit318-assignment2-11353226/bin/Debug/net7.0/dcit318-assignment2-11353226.runtimeconfig.json
+/Users/brian/Desktop/DCIT 318/dcit318-assignment2-11353226/dcit318-assignment2-11353226/bin/Debug/net7.0/dcit318-assignment2-11353226.dll
+/Users/brian/Desktop/DCIT 318/dcit318-assignment2-11353226/dcit318-assignment2-11353226/bin/Debug/net7.0/dcit318-assignment2-11353226.pdb
+/Users/brian/Desktop/DCIT 318/dcit318-assignment2-11353226/dcit318-assignment2-11353226/obj/Debug/net7.0/dcit318-assignment2-11353226.csproj.AssemblyReference.cache
+/Users/brian/Desktop/DCIT 318/dcit318-assignment2-11353226/dcit318-assignment2-11353226/obj/Debug/net7.0/dcit318-assignment2-11353226.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brian/Desktop/DCIT 318/dcit318-assignment2-11353226/dcit318-assignment2-11353226/obj/Debug/net7.0/dcit318-assignment2-11353226.AssemblyInfoInputs.cache
+/Users/brian/Desktop/DCIT 318/dcit318-assignment2-11353226/dcit318-assignment2-11353226/obj/Debug/net7.0/dcit318-assignment2-11353226.AssemblyInfo.cs
+/Users/brian/Desktop/DCIT 318/dcit318-assignment2-11353226/dcit318-assignment2-11353226/obj/Debug/net7.0/dcit318-assignment2-11353226.csproj.CoreCompileInputs.cache
+/Users/brian/Desktop/DCIT 318/dcit318-assignment2-11353226/dcit318-assignment2-11353226/obj/Debug/net7.0/dcit318-assignment2-11353226.dll
+/Users/brian/Desktop/DCIT 318/dcit318-assignment2-11353226/dcit318-assignment2-11353226/obj/Debug/net7.0/refint/dcit318-assignment2-11353226.dll
+/Users/brian/Desktop/DCIT 318/dcit318-assignment2-11353226/dcit318-assignment2-11353226/obj/Debug/net7.0/dcit318-assignment2-11353226.pdb
+/Users/brian/Desktop/DCIT 318/dcit318-assignment2-11353226/dcit318-assignment2-11353226/obj/Debug/net7.0/dcit318-assignment2-11353226.genruntimeconfig.cache
+/Users/brian/Desktop/DCIT 318/dcit318-assignment2-11353226/dcit318-assignment2-11353226/obj/Debug/net7.0/ref/dcit318-assignment2-11353226.dll
